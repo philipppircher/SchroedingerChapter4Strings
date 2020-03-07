@@ -1,7 +1,5 @@
 package rheinwerk.computing.schroedinger.phil;
 
-import javax.swing.*;
-
 public class FoodHacker {
     public static void main(String[] args) {
         String speise = "Dinkel mit Salat";
